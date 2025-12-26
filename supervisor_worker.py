@@ -1,5 +1,5 @@
 # Supervisor-Worker Pattern
-# Full code for: https://medium.com/@ksankaran/stop-overloading-your-ai-agent
+# Full code for: https://medium.com/@v31u/stop-overloading-your-ai-agent-build-a-team-instead-256fb0097eb7
 #
 # A supervisor agent analyzes requests, delegates to specialist workers,
 # and synthesizes results. This mirrors how human organizations work.

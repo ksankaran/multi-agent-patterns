@@ -1,5 +1,5 @@
 # Debate Pattern
-# Full code for: https://medium.com/@ksankaran/stop-overloading-your-ai-agent
+# Full code for: https://medium.com/@v31u/stop-overloading-your-ai-agent-build-a-team-instead-256fb0097eb7
 #
 # Two agents argue opposing positions, and a judge synthesizes their
 # arguments into a balanced conclusion. This surfaces trade-offs that

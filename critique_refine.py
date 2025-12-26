@@ -1,5 +1,5 @@
 # Critique and Refine Pattern
-# Full code for: https://medium.com/@ksankaran/stop-overloading-your-ai-agent
+# Full code for: https://medium.com/@v31u/stop-overloading-your-ai-agent-build-a-team-instead-256fb0097eb7
 #
 # One agent creates, another critiques, and they iterate until quality
 # is acceptable. This mimics how professional editing actually works.

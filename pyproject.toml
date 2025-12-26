@@ -1,7 +1,7 @@
 [project]
 name = "multi-agent-patterns"
 version = "0.1.0"
-description = "Add your description here"
+description = "Four patterns for building multi-agent AI systems"
 readme = "README.md"
 requires-python = ">=3.13.3"
 dependencies = [
